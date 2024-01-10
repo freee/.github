@@ -1,15 +1,22 @@
-# 👋 Welcome to freee Development Team!
+<img src="https://github.com/freee/.github/blob/main/profile/freee_logo.png?raw=true" alt="freee logo" width="500px" align="center"/>
 
-<img src="https://github.com/freee/.github/blob/main/profile/freee_logo.png?raw=true" alt="freee logo" width="850px" align="center"/>
-
-## 🔍 About Us
+# 🔍 About Us
 
 ### 🎯 Mission
 
-「スモールビジネスを、世界の主役に。」
+<details>
+  <summary><strong style="color: #2864f0">スモールビジネス</strong>を、世界の主役に。</summary>
 
+<br/>
 社会を自由にするコード。<br/>
-エンジニア一人ひとりの力で、社会をより自由にするために。
+エンジニア一人ひとりの力で、社会をより自由にするために。<br/><br/>
+
+私たちのアプローチは 日本企業の 99.7%を占める中小企業・スモールビジネスに従事する方々に<br/>
+テクノロジーの力で新しい働き方を提供していくこと。
+
+業務の自動化を進めることで、ミスや無駄な作業をゼロにする。<br/>
+経営データを可視化することで、社会の変化に即したリアルタイムな意思決定を可能にする。<br/>
+そして、遊び心や楽しさを感じてもらうことで、よりクリエイティブに仕事をしてもらう。
 
 しがらみがなくスピード感をもってアイデアを具現化するスモールビジネスは、<br/>
 個人の自己実現のツールであり、社会にイノベーションを生み出す源泉でもあります。
@@ -21,42 +28,14 @@
 
 それが、freee 開発チームのミッションです。
 
+</details>
+
 ### 🎙️ CTO インタビュー
 
 - [原体験を礎に。CTO として数々の難局を乗り越え、スモールビジネスの未来を切り開く](https://jobs.freee.co.jp/recruitblog/career/freee_cto_yokoji/)
 - freee CTO 横路にカジュアル面談受けてみた ([前編](https://youtu.be/JFIrTeZZumc?si=WlTr9-NuPM8niRYj) / [後編](https://youtu.be/e9cazpznN64?si=VfMGErWCFpe_bjhq))
 
-## 🌟 Our Culture
-
-<img src="https://github.com/freee/.github/blob/main/profile/freee_culture_of_developers.png?raw=true" alt="freee_culture_of_developers" width="850px" align="center"/>
-
-### 🏈 失敗して攻めよう
-
-学びのある失敗をして最速で成長しよう。<br/>
-学びのある失敗とはチームやプロダクトの成長につながる失敗。<br/>
-学びのある失敗をしていないのは挑戦が足りない。
-
-### ⚾️ 何でもやれる、何でもやる
-
-チームで扱う課題について、特定の技術や領域に固執せずオールラウンドに取り組めているか。<br/>
-アプリもインフラも、サーバーサイドもフロントエンドも、早さも正確さも。
-
-### 🏐 必殺技
-
-チームの中で自分が貢献できる特徴を理解して発揮しているか。<br/>
-また、その特徴を増やしていけるか。
-
-### 🏃🏻 カッとしてシュッとやる
-
-最低限はここまで、に満足せず自分がやりたいことを載せていけるか。<br/>
-システムのボトルネック、負債に対する怒りをプラスの方向に関心を持ち、解決できるか。
-
-### 🚑 世話を焼いていくスタイル
-
-チーム内外問わず周囲を自分の知見で助けられているか。<br/>
-レビューしているか、システム or 人間のアラートに疾風迅雷のごとく反応しているか。
-
-## 👥 Join Us
+# 👥 Join Us
 
 社会の常識を変えるプロダクトを一緒につくり、広げていきませんか？<br/>
 freee はミッションの実現を本気で目指せるメンバーを募集しています。
@@ -65,7 +44,7 @@ freee はミッションの実現を本気で目指せるメンバーを募集�
 - [エンジニアの仕事内容](https://jobs.freee.co.jp/teamwork/job-description/engineer/)
 - [10 分でわかる会社説明資料](https://speakerdeck.com/freee/10fen-dewakarufreee-enziniaxiang-kehui-she-shuo-ming-zi-liao)
 
-## 📡 Stay Connected
+# 📡 Stay Connected
 
 ### 🌙 freee Tech Night (Tech Event)
 
@@ -102,11 +81,12 @@ freee の提供するオープンソースリポジトリ。<br/>
 
 ### 🎄 Advent Calendar
 
-- freee Advent Calendar 2023
+- [freee Developers Advent Calendar 2023](https://adventar.org/calendars/8988)
+- [freee 基盤チーム Advent Calendar 2023](https://adventar.org/calendars/9426)
+- [freee QA Advent Calendar 2023](https://adventar.org/calendars/9210)
 
-  - [freee Developers Advent Calendar 2023](https://adventar.org/calendars/8988)
-  - [freee 基盤チーム Advent Calendar 2023](https://adventar.org/calendars/9426)
-  - [freee QA Advent Calendar 2023](https://adventar.org/calendars/9210)
+<details>
+  <summary>過去分</summary>
 
 - [freee Developers Advent Calendar 2022](https://adventar.org/calendars/7787)
 - [freee Developers Advent Calendar 2021](https://adventar.org/calendars/6184)
@@ -116,3 +96,4 @@ freee の提供するオープンソースリポジトリ。<br/>
 - [freee Developers Advent Calendar 2017](https://adventar.org/calendars/2358)
 - [freee Developers Advent Calendar 2016](https://qiita.com/advent-calendar/2016/freee)
 - [freee Developers Advent Calendar 2015](https://qiita.com/advent-calendar/2015/freee)
+</details>
