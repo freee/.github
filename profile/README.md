@@ -60,7 +60,7 @@ toB SaaS ドメインならではの技術的工夫や課題解決方法を、�
 
 ### 🎥 freee Developers YouTube
 
-開発者向け情報を発信する freee 株式会社の公式チャンネル<br/>
+開発者向け情報を発信する freee Developers の YouTube チャンネル<br/>
 [freee Developers YouTube](https://www.youtube.com/@freee_developers)
 
 ### ✍🏻 freee Developers Blog
