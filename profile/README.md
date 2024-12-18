@@ -82,7 +82,7 @@ freee の提供するオープンソースリポジトリ。<br/>
 ### 🎄 Advent Calendar
 
 - [freee Developers Advent Calendar 2024](https://adventar.org/calendars/10487)
-- [freee QA Advent Calendar 2023](https://adventar.org/calendars/10280)
+- [freee QA Advent Calendar 2024](https://adventar.org/calendars/10280)
 
 <details>
   <summary>過去分</summary>
