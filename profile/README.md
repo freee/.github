@@ -81,13 +81,16 @@ freee の提供するオープンソースリポジトリ。<br/>
 
 ### 🎄 Advent Calendar
 
-- [freee Developers Advent Calendar 2023](https://adventar.org/calendars/8988)
-- [freee 基盤チーム Advent Calendar 2023](https://adventar.org/calendars/9426)
-- [freee QA Advent Calendar 2023](https://adventar.org/calendars/9210)
+- [freee Developers Advent Calendar 2024](https://adventar.org/calendars/10487)
+- [freee QA Advent Calendar 2024](https://adventar.org/calendars/10280)
 
 <details>
   <summary>過去分</summary>
 
+- freee Developers Advent Calendar 2023
+  - [freee Developers Advent Calendar 2023](https://adventar.org/calendars/8988)
+  - [freee 基盤チーム Advent Calendar 2023](https://adventar.org/calendars/9426)
+  - [freee QA Advent Calendar 2023](https://adventar.org/calendars/9210)
 - [freee Developers Advent Calendar 2022](https://adventar.org/calendars/7787)
 - [freee Developers Advent Calendar 2021](https://adventar.org/calendars/6184)
 - [freee Developers Advent Calendar 2020](https://adventar.org/calendars/5015)
